@@ -9,13 +9,8 @@
 
 Building intelligent applications, backend systems, and privacy-focused AI solutions.
 
-
-## 🤝 Connect With Me
-
-- 📧 Email: [amrendra.pandey2522@gmail.com](mailto:amrendra.pandey2522@gmail.com)
-- 💻 GitHub: [amrendra222](https://github.com/amrendra222)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/amrendra222/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-amrendra222-181717?style=for-the-badge&logo=github)](https://github.com/amrendra222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amrendra222/)
 
 </div>
 
