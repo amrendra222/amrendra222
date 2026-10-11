@@ -9,7 +9,7 @@
 
 Building intelligent applications, backend systems, and privacy-focused AI solutions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-amrendra222-181717?style=for-the-badge&logo=github)](https://github.com/amrendra222)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amrendra222/)
 
 </div>
